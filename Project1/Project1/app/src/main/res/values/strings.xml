@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project 1</string>
+    <string name="welcome">Welcome!</string>
+    <string name="button1">Button One</string>
+    <string name="button2">Button Two</string>
+    <string name="enterName">Please enter a name:</string>
+</resources>
