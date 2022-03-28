@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project 2</string>
+    <string name="songTitle">Song Title</string>
+    <string name="artist">Artist Name</string>
+    <string name="view1">List Layout</string>
+    <string name="view2">Grid Layout</string>
+    <string name="playSong">Play Song</string>
+    <string name="songWiki">Song Wiki</string>
+    <string name="artistWiki">Artist Wiki</string>
+</resources>

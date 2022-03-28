@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project 4</string>
+    <string name="tic_toe_board">The Tic Toe Board Goes Here</string>
+    <string name="start_game">Start Game</string>
+    <string name="x_move">X</string>
+    <string name="o_move">O</string>
+</resources>

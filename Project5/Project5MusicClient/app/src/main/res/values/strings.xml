@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project5MusicClient</string>
+    <string name="button1_name">Bind</string>
+    <string name="button2_name">Unbind</string>
+    <string name="button3_name">Download Songs</string>
+    <string name="songTitle">Song Title</string>
+    <string name="artist">Artist</string>
+    <string name="bind_text">Service Not Bound</string>
+    <string name="copyright_text">Due to copyrighted reasons the music playing will not be the originals</string>
+</resources>
