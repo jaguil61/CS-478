@@ -1,0 +1,6 @@
+edu/jaguil16/project1/NameActivity.java
+ edu.jaguil16.project1.NameActivity
+edu/jaguil16/project1/BuildConfig.java
+ edu.jaguil16.project1.BuildConfig
+edu/jaguil16/project1/MainActivity.java
+ edu.jaguil16.project1.MainActivity
